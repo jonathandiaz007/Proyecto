@@ -1,3 +1,30 @@
+
+body {
+    font-family: 'Oswald', sans-serif;
+    text-align: center
+
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700; /* Usar el peso de 700 (negrita) */
+    text-align: center
+    
+
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400; /* Peso normal */
+    text-align: center
+    
+
+}
+
+
+
+
+
 header {
     position: relative;
     width: 100%;
@@ -84,14 +111,13 @@ footer ul li a:hover {
     color: #3498db;          /* Cambia el color al pasar el cursor */
 }
 
+article {
+    text-align: initial;
+}
 
-body {
+ aside {
 
-    font-family: 'Arial', sans-serif; /* Cambia la fuente a Arial */
-    }
+    text-align: initial;
+    
+}
 
-    h2 {
-
-        text-align: center; /* Centra el texto */
-      
-      }
